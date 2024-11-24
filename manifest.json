@@ -1,12 +1,12 @@
 {
-  "name": "Egyptron",
-  "short_name": "Egyptron",
-  "theme_color": "#b80c00",
-  "background_color": "#b80c00",
+  "name": "ChatGPT",
+  "short_name": "ChatGPT",
+  "theme_color": "#383838",
+  "background_color": "#383838",
   "display": "standalone",
   "orientation": "",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "chatgpt.com",
+  "start_url": "chatgpt.com",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
